@@ -1,0 +1,26 @@
+sku_id,product,category,current_stock,forecast_8wk_avg,weeks_coverage,reorder_needed
+CLTH-003,Winter Jacket,Clothing,28,35.0,0.8,True
+HOME-002,Plastic Storage Box,Home,44,54.0,0.8,True
+FOOD-005,Vitamin Supplement,Food & Beverage,173,204.0,0.8,True
+CLTH-001,Cotton T-Shirt,Clothing,55,50.0,1.1,True
+FOOD-002,Protein Bar (Box of 12),Food & Beverage,97,92.0,1.1,True
+HLTH-003,Hand Sanitizer,Health,70,56.0,1.2,True
+CLTH-002,Denim Jeans,Clothing,75,58.0,1.3,True
+HOME-001,LED Desk Lamp,Home,65,51.0,1.3,True
+FOOD-004,Granola Mix (Bulk),Food & Beverage,126,100.0,1.3,True
+HLTH-005,Thermometer,Health,92,66.0,1.4,True
+HOME-004,Pillow Case (2-pack),Home,43,30.0,1.4,True
+FOOD-003,Sports Drink (6-pack),Food & Beverage,153,99.0,1.5,True
+FOOD-001,Ground Coffee Beans (1lb),Food & Beverage,184,119.0,1.5,True
+ELEC-003,USB-C Hub,Electronics,228,134.0,1.7,True
+HLTH-001,Multivitamin (Bottle),Health,144,82.0,1.7,True
+CLTH-005,Wool Sweater,Clothing,85,50.0,1.7,True
+HLTH-002,Sunscreen SPF 50,Health,169,92.0,1.8,True
+ELEC-002,Wireless Mouse,Electronics,235,133.0,1.8,True
+HLTH-004,Face Masks (50-pack),Health,100,50.0,2.0,True
+HOME-003,Door Mat,Home,69,32.0,2.1,True
+HOME-005,Shower Curtain,Home,90,41.0,2.2,True
+CLTH-004,Athletic Sneakers,Clothing,117,50.0,2.3,True
+ELEC-005,Phone Case (iPhone),Electronics,318,129.0,2.5,True
+ELEC-001,Laptop 15inch,Electronics,233,85.0,2.7,True
+ELEC-004,Bluetooth Headphones,Electronics,105,30.0,3.5,False

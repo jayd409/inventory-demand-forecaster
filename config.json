@@ -1,0 +1,27 @@
+{
+  "project_name": "Inventory Demand Forecaster",
+  "num_products": 100,
+  "months_of_data": 12,
+  "product_categories": [
+    "Electronics",
+    "Clothing",
+    "Home & Garden",
+    "Sports & Outdoors"
+  ],
+  "seasonality": {
+    "Electronics": {
+      "peak_months": [11, 12],
+      "peak_multiplier": 2.0
+    },
+    "Clothing": {
+      "peak_months": [4, 9],
+      "peak_multiplier": 1.5
+    },
+    "Home & Garden": {
+      "peak_months": [3, 4, 5],
+      "peak_multiplier": 1.4
+    }
+  },
+  "safety_stock_multiplier": 1.5,
+  "forecast_horizon_weeks": 12
+}
